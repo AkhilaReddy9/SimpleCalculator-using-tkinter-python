@@ -37,7 +37,7 @@ To run this calculator on your local machine, you need to have Python installed.
 
 2. **Performing Calculations**:
    - Use the number buttons (`0-9`) to enter numbers.
-   - Use the operator buttons (`+`, `-`, `*`, `/`) to perform operations.
+   - Use the operator buttons (`+`, `-`, `*`, `/`) to perform operations and square root, exponentiation, memory functions
    - Click `=` to get the result.
    - Click `C` to clear the current input.
 
