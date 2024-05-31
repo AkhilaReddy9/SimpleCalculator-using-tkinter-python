@@ -1,7 +1,4 @@
-# SimpleCalculator-using-tkinter-python
-Sure, here's a detailed GitHub README description for a simple calculator using Tkinter in Python:
 
----
 
 # Simple Calculator using Tkinter
 
